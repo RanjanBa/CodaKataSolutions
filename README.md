@@ -1,0 +1,2 @@
+# CodaKataSolutions
+All codekata solutions
