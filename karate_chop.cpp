@@ -6,7 +6,6 @@ using namespace std;
 class KarateShop
 {
 private:
-    // recursion method
     int findPosRecursive(int ele, const vector<int> &vec, int first, int last)
     {
         if (first > last)
@@ -27,7 +26,6 @@ private:
         return findPosRecursive(ele, vec, mid + 1, last);
     }
 
-    //iterative method
     int findPosIterative(int ele, const vector<int> &vec, int first, int last)
     {
         while (first <= last)
