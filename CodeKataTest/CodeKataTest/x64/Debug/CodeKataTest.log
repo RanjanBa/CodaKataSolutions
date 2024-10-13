@@ -1,5 +1,2 @@
-﻿  test.cpp
-C:\Users\ranja\Documents\Projects\CodeKataTest\test.cpp(84,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  (compiling source file '/test.cpp')
-  
-  CodeKataTest.vcxproj -> C:\Users\ranja\Documents\Projects\CodeKataTest\x64\Debug\CodeKataTest.exe
+﻿  karate_chop_test.cpp
+C:\Users\ranja\Documents\Projects\CodaKataSolutions\CodeKataTest\karate_chop_test.cpp(18,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

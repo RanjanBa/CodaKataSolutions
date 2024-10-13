@@ -1,14 +1,6 @@
 #include "pch.h"
 #include "karate_chop.h"
 
-KarateChop::KarateChop()
-{
-}
-
-KarateChop::~KarateChop()
-{
-}
-
 int KarateChop::findPos(int ele, const vector<int>& vec)
 {
     // return chop(ele, vec, 0, vec.size() - 1);

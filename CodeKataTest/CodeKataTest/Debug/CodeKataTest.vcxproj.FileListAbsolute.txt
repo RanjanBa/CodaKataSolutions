@@ -1,0 +1,3 @@
+C:\Users\ranja\Documents\Projects\CodaKataSolutions\CodeKataTest\Debug\gtest.pdb
+C:\Users\ranja\Documents\Projects\CodaKataSolutions\CodeKataTest\Debug\gtest_main.pdb
+C:\Users\ranja\Documents\Projects\CodaKataSolutions\CodeKataTest\CodeKataTest\Debug\CodeKata.0795D461.Up2Date

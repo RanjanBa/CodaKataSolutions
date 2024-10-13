@@ -29,8 +29,12 @@ vector<string> getLinesFromFile(string filename) {
 
 TEST(KarateChopTest, AllTestCases) {
 	KarateChop chop;
-	vector<int> vec = { 1, 2, 3 };
+	vector<int> vec;
 	int pos = chop.findPos(1, vec);
+	EXPECT_EQ(-1, pos);
+
+	vec = { 1, 2, 3 };
+	pos = chop.findPos(1, vec);
 	EXPECT_EQ(0, pos);
 	pos = chop.findPos(4, vec);
 	EXPECT_EQ(-1, pos);
@@ -39,14 +43,26 @@ TEST(KarateChopTest, AllTestCases) {
 }
 
 TEST(AngramsTest, AllTestCases) {
-	vector<string> words = {"test", "ranjan"};
+	vector<string> words = getLinesFromFile("words.txt");
 	Anagrams anagrams(words);
-	string word = "test";
-	string res;
-	bool s = anagrams.isEqualAnagramPresent(word, res);
-	EXPECT_TRUE(s);
-	string w = "estt";
-	EXPECT_EQ(res, w);
+
+	{
+		string word = "";
+		string sorted_word;
+		bool s = anagrams.isEqualAnagramPresent(word, sorted_word);
+		EXPECT_TRUE(s);
+		string w = "";
+		EXPECT_EQ(sorted_word, w);
+	}
+
+	{
+		string word = "test";
+		string sorted_word;
+		bool s = anagrams.isEqualAnagramPresent(word, sorted_word);
+		EXPECT_TRUE(s);
+		string w = "estt";
+		EXPECT_EQ(sorted_word, w);
+	}
 }
 
 TEST(CountingCodeLinesTest, AllTestCases) {
@@ -55,7 +71,7 @@ TEST(CountingCodeLinesTest, AllTestCases) {
 	EXPECT_EQ(13, lines);
 }
 
-TEST(SortItOutTest, AllTestCases) {
+TEST(SortItOutTest, SortingBallsCases) {
 	SortingBalls sorting_balls(60);
 
 	vector<int> res = {};
@@ -79,11 +95,25 @@ TEST(SortItOutTest, AllTestCases) {
 	EXPECT_EQ(res, sorting_balls.getBalls());
 }
 
+TEST(SortItOutTest, SortingCharactersCase) {
+	string str = "";
+	string output = "";
+	EXPECT_EQ(output, SortingCharacters::sortCharacter(str));
+
+	str = "ddaade";
+	output = "aaddde";
+	EXPECT_EQ(output, SortingCharacters::sortCharacter(str));
+
+	str = "1dwadd$";
+	output = "adddw";
+	EXPECT_EQ(output, SortingCharacters::sortCharacter(str));
+}
+
 TEST(BloomFilterTest, AllTestCases) {
-	vector<string> lines = getLinesFromFile("words.txt");
+	vector<string> lines = getLinesFromFile("words_sample.txt");
 	BloomFilter bloom_filter = BloomFilter::createBloomFilter(lines, 1e5, 3);
 
-	string word = "test";
+	string word = "Blimps1dwd";
 	bool is_found = bloom_filter.isWordContains(word);
 
 	EXPECT_FALSE(is_found);

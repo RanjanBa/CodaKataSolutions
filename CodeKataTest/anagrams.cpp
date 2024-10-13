@@ -3,20 +3,29 @@
 
 Anagrams::Anagrams(vector<string>& _words)
 {
-    words = _words;
-    st.clear();
+    mp.clear();
 
-    for (auto w : words)
+    for (auto w : _words)
     {
-        sort(w.begin(), w.end());
-        st.insert(w);
+        addWordToAnagram(w);
     }
 }
 
-bool Anagrams::isEqualAnagramPresent(string word, string& res) {
+void Anagrams::addWordToAnagram(string word) {
+    string w = word;
+    sort(w.begin(), w.end());
+    if (mp.find(w) != mp.end()) {
+        mp[w].push_back(word);
+    }
+    else {
+        mp[w] = { word };
+    }
+}
+
+bool Anagrams::isEqualAnagramPresent(string word, string& sorted_word) {
     sort(word.begin(), word.end());
-    if (st.find(word) != st.end()) {
-        res = word;
+    if (mp.find(word) != mp.end()) {
+        sorted_word = word;
         return true;
     }
     return false;

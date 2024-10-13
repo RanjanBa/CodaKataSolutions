@@ -1,3 +1,6 @@
 C:\Users\ranja\Documents\Projects\CodeKataTest\x64\Debug\gtest.pdb
 C:\Users\ranja\Documents\Projects\CodeKataTest\x64\Debug\gtest_main.pdb
 C:\Users\ranja\Documents\Projects\CodeKataTest\CodeKataTest\x64\Debug\CodeKata.0795D461.Up2Date
+C:\Users\ranja\Documents\Projects\CodaKataSolutions\CodeKataTest\x64\Debug\gtest.pdb
+C:\Users\ranja\Documents\Projects\CodaKataSolutions\CodeKataTest\x64\Debug\gtest_main.pdb
+C:\Users\ranja\Documents\Projects\CodaKataSolutions\CodeKataTest\CodeKataTest\x64\Debug\CodeKata.0795D461.Up2Date

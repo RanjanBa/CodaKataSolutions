@@ -7,9 +7,6 @@ using namespace std;
 class KarateChop
 {
 public:
-	KarateChop();
-	~KarateChop();
-
     int findPos(int ele, const vector<int>& vec);
 
 private:
