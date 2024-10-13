@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\ranja\Documents\Projects\CodeKataTest\test.cpp(84,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+  CodeKataTest.vcxproj -> C:\Users\ranja\Documents\Projects\CodeKataTest\x64\Debug\CodeKataTest.exe

@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\bloom_filter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:bloom_filter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\words.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:words.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\bloom_filter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:bloom_filter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\code_lines.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:code_lines.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\sort_it_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:sort_it_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\counting_code_lines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:counting_code_lines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\counting_code_lines.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:counting_code_lines.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\karate_chop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:karate_chop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\karate_chop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:karate_chop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\anagrams.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:anagrams.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\anagrams.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:anagrams.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D577E96-A1F3-4624-BFB5-CC253B19036E}|CodeKataTest.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 260,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "words.txt",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\words.txt",
+              "RelativeDocumentMoniker": "words.txt",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\words.txt",
+              "RelativeToolTip": "words.txt",
+              "ViewState": "AgIAAJMXAAAAAAAAAAAQwL4XAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-13T12:57:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwFoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T15:46:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bloom_filter.cpp",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\bloom_filter.cpp",
+              "RelativeDocumentMoniker": "bloom_filter.cpp",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\bloom_filter.cpp",
+              "RelativeToolTip": "bloom_filter.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T07:25:28.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bloom_filter.h",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\bloom_filter.h",
+              "RelativeDocumentMoniker": "bloom_filter.h",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\bloom_filter.h",
+              "RelativeToolTip": "bloom_filter.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T07:24:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "counting_code_lines.h",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\counting_code_lines.h",
+              "RelativeDocumentMoniker": "counting_code_lines.h",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\counting_code_lines.h",
+              "RelativeToolTip": "counting_code_lines.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T07:14:54.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "karate_chop.cpp",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\karate_chop.cpp",
+              "RelativeDocumentMoniker": "karate_chop.cpp",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\karate_chop.cpp",
+              "RelativeToolTip": "karate_chop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T16:15:34.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "code_lines.txt",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\code_lines.txt",
+              "RelativeDocumentMoniker": "code_lines.txt",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\code_lines.txt",
+              "RelativeToolTip": "code_lines.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-13T09:01:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sort_it_out.cpp",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\sort_it_out.cpp",
+              "RelativeDocumentMoniker": "sort_it_out.cpp",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\sort_it_out.cpp",
+              "RelativeToolTip": "sort_it_out.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T07:56:55.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "counting_code_lines.cpp",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\counting_code_lines.cpp",
+              "RelativeDocumentMoniker": "counting_code_lines.cpp",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\counting_code_lines.cpp",
+              "RelativeToolTip": "counting_code_lines.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T07:20:07.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "karate_chop.h",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\karate_chop.h",
+              "RelativeDocumentMoniker": "karate_chop.h",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\karate_chop.h",
+              "RelativeToolTip": "karate_chop.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T16:14:36.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "anagrams.h",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\anagrams.h",
+              "RelativeDocumentMoniker": "anagrams.h",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\anagrams.h",
+              "RelativeToolTip": "anagrams.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T16:18:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "anagrams.cpp",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\anagrams.cpp",
+              "RelativeDocumentMoniker": "anagrams.cpp",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\anagrams.cpp",
+              "RelativeToolTip": "anagrams.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T16:19:12.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\pch.cpp",
+              "RelativeDocumentMoniker": "pch.cpp",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\pch.cpp",
+              "RelativeToolTip": "pch.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T15:48:04.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "C:\\Users\\ranja\\Documents\\Projects\\CodeKataTest\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T15:48:00.477Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
